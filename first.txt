@@ -1,3 +1,7 @@
 It really Works
 yeah it damn! works and need to work.
+<<<<<<< HEAD
 so it should work out.
+=======
+That's the Spirit
+>>>>>>> 2e3b5c8b793fa2b920bcfcc3e09e85297c741f69
